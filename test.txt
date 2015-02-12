@@ -1,3 +1,4 @@
 test1 changed
 test2
 test local branch
+test master
